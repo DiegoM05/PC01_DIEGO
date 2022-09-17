@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  header,TH{
+    background-color: aqua;
+  }
+
+  tr:ntd-child(even) {
+    background-color:aquamarine;
+  }
